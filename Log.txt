@@ -1,0 +1,4 @@
+Landscape created using landmass plugin.
+
+1 Nov - Procedural color applied using dot product of vertex normal and z axis.
+1 Nov - Procedural texture applied using material layer and material layer blends. Alpha for layer blends calculated using aforementioned dot product.
