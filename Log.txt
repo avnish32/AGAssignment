@@ -2,3 +2,5 @@ Landscape created using landmass plugin.
 
 1 Nov - Procedural color applied using dot product of vertex normal and z axis.
 1 Nov - Procedural texture applied using material layer and material layer blends. Alpha for layer blends calculated using aforementioned dot product.
+
+2 Nov - Added lanndscapte grass output. It uses 5 grass SMs, and is connected to the blend function b/w grass and soil material layers.
