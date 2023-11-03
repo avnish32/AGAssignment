@@ -5,3 +5,6 @@ Landscape created using landmass plugin.
 
 2 Nov - Added lanndscape grass output. It uses 5 grass SMs, and is connected to the blend function b/w grass and soil material layers.
 2 Nov - Added procedurally generated trees using procedural foliage spawner. This takes in static mesh foliages and generates them based on some rules such as ground slope, number of steps, how many seeds to spread on each step, how far seeds should be spread, collision radius etc.
+2 Nov - Another procedural foliage spawner volume was added for twigs.
+
+3 Nov - Added weather change events that can be called from editor.
