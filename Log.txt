@@ -10,3 +10,4 @@ Landscape created using landmass plugin.
 3 Nov - Added weather change events that can be called from editor.
 3 Nov - Added smooth atmospheric transition
 3 Nov - Added functionality to toggle rain. Only landscape material becomes wet using a material parameter collection and atmosphere gets darker; raindrops and thunder are yet to be implemented.
+3 Nov - Added raindrops and splashes using collision events in niagara system. (splash.png taken from transparentpng.com)
