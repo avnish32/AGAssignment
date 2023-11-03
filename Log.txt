@@ -8,3 +8,4 @@ Landscape created using landmass plugin.
 2 Nov - Another procedural foliage spawner volume was added for twigs.
 
 3 Nov - Added weather change events that can be called from editor.
+3 Nov - Added smooth atmospheric transition
