@@ -13,3 +13,4 @@ Landscape created using landmass plugin.
 3 Nov - Added raindrops and splashes using collision events in niagara system. (splash.png taken from transparentpng.com)
 
 4 Nov - Added thunder vfx by dynamically offsetting material opacity mask (thunder png taken from pngimg.com)
+4 Nov - Added mechanism for lightning to strike at random locations but always facing the player.
