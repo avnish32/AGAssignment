@@ -15,3 +15,5 @@ Landscape created using landmass plugin.
 4 Nov - Added thunder vfx by dynamically offsetting material opacity mask (thunder png taken from pngimg.com)
 4 Nov - Added mechanism for lightning to strike at random locations but always facing the player.
 4 Nov - Added another texture for lightning, now texture will be chosen randomly. Created BP for rain and added SFX for rain and thunder. SFX taken from mixkit.co.
+
+5 Nov - Added outwardly spreading ripple effect to rain niagara system. Used 'scale sprite size' in Niagara to increase size. Unchecked 'update attribute initial values' in event handler to make it work after wanting to gouge my eyes out for 2 hours..
