@@ -30,3 +30,4 @@ Landscape created using landmass plugin.
 	18	360
 6 Nov - Added smooth transition for rain
 6 Nov - Added moonlight.
+6 Nov - Tweaked sunlight to masquerade as moonlight so clouds are visible at night, by adjusting sun's rotation, intensity and color when it is nighttime. Hence deleted additional direction light serving as moonlight.
