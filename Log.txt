@@ -28,3 +28,4 @@ Landscape created using landmass plugin.
 	6	180
 	12	270
 	18	360
+6 Nov - Added smooth transition for rain
