@@ -20,3 +20,11 @@ Landscape created using landmass plugin.
 5 Nov - Added puddle using decal material. Added ripples in puddle by panning 2 copies of the same normal map in opposite directions. (Puddle ripple normal map taken from textures.pixel-furnace.com)
 5 Nov - Added outwardly splashing particles when raindrops hit the ground instead of the billboard splash texture.
 5 Nov - Integrated rain and thunder with weather system. Terrain now smoothly transitions from wet to dry and vice-versa. Handled button smashing case too for this - in case user toggles rain before ground is completely wet, it starts getting dry from from current state, now from fully wet state.
+
+6 Nov - Added movement of directional light based on time of day.
+	time of day mappings:
+	time	directionalLightYAxisAngle (Pitch)
+	0	90
+	6	180
+	12	270
+	18	360
