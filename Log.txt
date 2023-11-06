@@ -19,3 +19,4 @@ Landscape created using landmass plugin.
 5 Nov - Added outwardly spreading ripple effect to rain niagara system. Used 'scale sprite size' in Niagara to increase size. Unchecked 'update attribute initial values' in event handler to make it work after wanting to gouge my eyes out for 2 hours. (Ripple normal map taken from fabianklingl.artstation.com)
 5 Nov - Added puddle using decal material. Added ripples in puddle by panning 2 copies of the same normal map in opposite directions. (Puddle ripple normal map taken from textures.pixel-furnace.com)
 5 Nov - Added outwardly splashing particles when raindrops hit the ground instead of the billboard splash texture.
+5 Nov - Integrated rain and thunder with weather system. Terrain now smoothly transitions from wet to dry and vice-versa. Handled button smashing case too for this - in case user toggles rain before ground is completely wet, it starts getting dry from from current state, now from fully wet state.
