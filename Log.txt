@@ -34,3 +34,5 @@ Landscape created using landmass plugin.
 
 7 Nov - Added actual moon mesh and set its position to be opposite to that of sun. Night light is still provided by a single directional light, but it is now occluded by the moon mesh. The mesh is a child of BP_TimeOfDay. Since now rotation of the parent BP is always the same as directional light's, and the moon's position is offset wrt the sun's, moon will always be on the opposite end of the sun's orbit. (Moon material and displacement map taken from NASA Scientific Visualization Studio (https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4720))
 7 Nov - Added stars using Niagara hanging particle system, fixed do once bug in Increment Time function. Do Once works properly only within the scope of the function.  Replaced it with a static flag.
+
+8 Nov - Added a separate dir light for moon and smoothened day/night transition by freezing rotation of sun/moon for half an hour at dusk/dawn respectively.
