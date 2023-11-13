@@ -36,3 +36,5 @@ Landscape created using landmass plugin.
 7 Nov - Added stars using Niagara hanging particle system, fixed do once bug in Increment Time function. Do Once works properly only within the scope of the function.  Replaced it with a static flag.
 
 8 Nov - Added a separate dir light for moon and smoothened day/night transition by freezing rotation of sun/moon for half an hour at dusk/dawn respectively.
+
+13 Nov - Added particle system for blowing twigs that are affected by wind speed. Also mapped wind speed to grass and trees.
