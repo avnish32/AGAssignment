@@ -38,3 +38,5 @@ Landscape created using landmass plugin.
 8 Nov - Added a separate dir light for moon and smoothened day/night transition by freezing rotation of sun/moon for half an hour at dusk/dawn respectively.
 
 13 Nov - Added particle system for blowing twigs that are affected by wind speed. Also mapped wind speed to grass and trees.
+
+15 Nov - Messed around with PCG, added volcano mesh and a stupid looking explosion.
