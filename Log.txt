@@ -44,3 +44,5 @@ Landscape created using landmass plugin.
 16 Nov - Somehow added some smoke and explosions to the volcano and added custom event for testing. It needs polishing.
 
 17 Nov - Added internal and oozing lava, added oozing out effect by offsetting material opacity mask and updating its offset from an external, parent scene component.
+
+18 Nov - Made lava rise upon eruption and added volcano wetness with rain.
