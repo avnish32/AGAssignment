@@ -42,3 +42,5 @@ Landscape created using landmass plugin.
 15 Nov - Messed around with PCG, added volcano mesh and a stupid looking explosion.
 
 16 Nov - Somehow added some smoke and explosions to the volcano and added custom event for testing. It needs polishing.
+
+17 Nov - Added internal and oozing lava, added oozing out effect by offsetting material opacity mask and updating its offset from an external, parent scene component.
