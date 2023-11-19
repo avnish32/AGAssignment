@@ -45,4 +45,5 @@ Landscape created using landmass plugin.
 
 17 Nov - Added internal and oozing lava, added oozing out effect by offsetting material opacity mask and updating its offset from an external, parent scene component.
 
-18 Nov - Made lava rise upon eruption and added volcano wetness with rain.
+18 Nov - Made lava rise upon eruption - used finterp to constant for this, updated z value of location and opacity of both the internal lava and the internal lava decal. Also added volcano wetness with rain.
+18 Nov - Enhanced wind system to affect rain and puddle ripples.
