@@ -47,3 +47,5 @@ Landscape created using landmass plugin.
 
 18 Nov - Made lava rise upon eruption - used finterp to constant for this, updated z value of location and opacity of both the internal lava and the internal lava decal. Also added volcano wetness with rain.
 18 Nov - Enhanced wind system to affect rain and puddle ripples.
+
+19 Nov - Puddle size and scene wetness is now affected by rain duration. Grass wetness is also affected but isn't really visible.
