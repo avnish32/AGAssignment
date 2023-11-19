@@ -50,3 +50,4 @@ Landscape created using landmass plugin.
 
 19 Nov - Puddle size and scene wetness is now affected by rain duration. Grass wetness is also affected but isn't really visible.
 19 Nov - Enabled remote control API. Exposed weather presets, rain strength and wind speed.
+19 Nov - Added camera shake on volcano eruption and reset volcano functionality.
