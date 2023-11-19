@@ -49,3 +49,4 @@ Landscape created using landmass plugin.
 18 Nov - Enhanced wind system to affect rain and puddle ripples.
 
 19 Nov - Puddle size and scene wetness is now affected by rain duration. Grass wetness is also affected but isn't really visible.
+19 Nov - Enabled remote control API. Exposed weather presets, rain strength and wind speed.
