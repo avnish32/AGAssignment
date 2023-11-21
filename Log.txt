@@ -53,3 +53,5 @@ Landscape created using landmass plugin.
 19 Nov - Added camera shake on volcano eruption and reset volcano functionality.
 
 20 Nov - Added functionality to convert time of day into hours, mins and secs. Also added switch to toggle automatic time of day progression. Time of day was also exposed to remote control web app. Hours, mins and secs are being displayed in the app but not updated. Might be because the API call that unreal makes when user manually updates the exposed property is not being made when same properties are updated at runtime through blueprint. The only quick fix I can think of is to display earth time on the UI.
+
+21 Nov - Added manual lightning strike functionality. Added relevant toggle and button for the same in Remote Control UI.
