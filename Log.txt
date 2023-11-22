@@ -58,3 +58,4 @@ Landscape created using landmass plugin.
 
 22 Nov - Added clock on HUD. Digital clock font by David J Patterson downloaded from https://www.dafont.com/alarm-clock.font.
 22 Nov - Smmothened the day/night transition by lerping over the light intensities and setting the forward shading priorities based on intensities in the twilight hours.
+22 Nov - Added time of day presets - noon, midnight, sunrise and sunset. Fixed associated bug where stars did not disappear when user went from midnight -> noon (before stars could fade out completely) -> midnight -> noon.
