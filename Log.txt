@@ -63,3 +63,6 @@ Landscape created using landmass plugin.
 
 23 Nov - Added HTTP callbacks to replicate camera rotation and time of day on RC UI. Also noticed that when user rotates camera, the X-direction is not forward anymore, so the joystick input direction does not necessarily reflect the camera movement direction. But it is essentially changing the X value of the transform.
 23 Nov - Added parameter to control FOV of the cine cam, which actually functions like a zoom. Need to remap range.
+
+29 Nov - Added PCG Graph for forest consisting of trees, grass and rocks.
+29 Nov - Binded wind speed to the newly added trees. Also spent time deleting unneeded meshes from megascans folder. The existing trees/saplings/seedlings/grass should hopefully be enough.
