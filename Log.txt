@@ -66,3 +66,5 @@ Landscape created using landmass plugin.
 
 29 Nov - Added PCG Graph for forest consisting of trees, grass and rocks.
 29 Nov - Binded wind speed to the newly added trees. Also spent time deleting unneeded meshes from megascans folder. The existing trees/saplings/seedlings/grass should hopefully be enough.
+
+30 Nov - Again had to spend time on forest PCG; added saplings and played around with some values. Tried to scale it but that messed up the scale of static meshes so had to tweak everything back again. Still need to increase density of grass as PCG tasks take too much time.
