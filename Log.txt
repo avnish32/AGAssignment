@@ -64,7 +64,11 @@ Landscape created using landmass plugin.
 23 Nov - Added HTTP callbacks to replicate camera rotation and time of day on RC UI. Also noticed that when user rotates camera, the X-direction is not forward anymore, so the joystick input direction does not necessarily reflect the camera movement direction. But it is essentially changing the X value of the transform.
 23 Nov - Added parameter to control FOV of the cine cam, which actually functions like a zoom. Need to remap range.
 
-29 Nov - Added PCG Graph for forest consisting of trees, grass and rocks.
+29 Nov - Added PCG Graph for forest consisting of trees, grass and rocks. Adrien Logut's YT channel followed for PCG.
 29 Nov - Binded wind speed to the newly added trees. Also spent time deleting unneeded meshes from megascans folder. The existing trees/saplings/seedlings/grass should hopefully be enough.
 
 30 Nov - Again had to spend time on forest PCG; added saplings and played around with some values. Tried to scale it but that messed up the scale of static meshes so had to tweak everything back again. Still need to increase density of grass as PCG tasks take too much time.
+30 Nov - Added lake
+
+01 Dec - Binded wind speed to lake wave speed.
+01 Dec - Added flower field.
