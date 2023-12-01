@@ -71,4 +71,4 @@ Landscape created using landmass plugin.
 30 Nov - Added lake
 
 01 Dec - Binded wind speed to lake wave speed.
-01 Dec - Added flower field.
+01 Dec - Added flower field. Tutorial followed : https://www.youtube.com/watch?v=F6CaevbjLK0
