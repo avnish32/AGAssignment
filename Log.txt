@@ -75,3 +75,5 @@ Landscape created using landmass plugin.
 01 Dec - Rebinded all RCP properties wrt main map.
 01 Dec - Spent/wasted time scaling the 2D smoke. The other 2 explosion effects are being clipped and no solution has been found yet. Pretty good omen, having the highlight of the scene not work in the last stages of designing.
 01 Dec - Another few mins wasted on debugging the white light in front of the moon. It turned out to be the skySphere mesh. Also added a Korean house.
+
+02 Dec - Added a 2D explosion effect instead of 3D. It is visible from the distance now. Also improved cam shake.
