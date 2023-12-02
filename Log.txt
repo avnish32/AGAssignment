@@ -79,3 +79,4 @@ Landscape created using landmass plugin.
 02 Dec - Added a 2D explosion effect instead of 3D. It is visible from the distance now. Also improved cam shake.
 02 Dec - Made leaves blow always perpendicular to the cine cam direction.
 02 Dec - Some bugs fixed regarding exposure compensation for weather effects and lightning.
+02 Dec - Added camera preset positions and made UI joystick move relative to the current camera position for better user experience.
