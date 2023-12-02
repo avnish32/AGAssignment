@@ -77,3 +77,5 @@ Landscape created using landmass plugin.
 01 Dec - Another few mins wasted on debugging the white light in front of the moon. It turned out to be the skySphere mesh. Also added a Korean house.
 
 02 Dec - Added a 2D explosion effect instead of 3D. It is visible from the distance now. Also improved cam shake.
+02 Dec - Made leaves blow always perpendicular to the cine cam direction.
+02 Dec - Some bugs fixed regarding exposure compensation for weather effects and lightning.
