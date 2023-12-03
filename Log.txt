@@ -89,3 +89,4 @@ Landscape created using landmass plugin.
  - Copy everything from UE/Engine/Plugins/VirtualProduction/RemoteControl/WebApp and paste in the same directory structure In packaged game.
  - Create a shortcut of the .exe and in properties in Target field, add -RCWebControlEnable -RCWebInterfaceEnable at the end.
  - After running, RC conductor should be accessible from 127.0.0.1:30000
+03 Dec - Set up a sequence that can be triggered as desired.
