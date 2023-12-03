@@ -81,3 +81,11 @@ Landscape created using landmass plugin.
 02 Dec - Some bugs fixed regarding exposure compensation for weather effects and lightning.
 02 Dec - Added camera preset positions and made UI joystick move relative to the current camera position for better user experience.
 02 Dec - Added puddles.
+
+03 Dec - Wasted time in making the game buildable. Some thing or the other didn't work. In the end, I was able to bring it to a state where remote control worked when user updated values, but the api calls made from the game weren't reflecting on UI. Also the UI of web app int packaged game wasn't the same as that of editor. For future reference, to enable RC inside a packaged build:
+ - Drag RC preset into the world in editor.
+ - Ensure it is not spatially loaded.
+ - Also might need to disable 'Async loading' in project settings.
+ - Copy everything from UE/Engine/Plugins/VirtualProduction/RemoteControl/WebApp and paste in the same directory structure In packaged game.
+ - Create a shortcut of the .exe and in properties in Target field, add -RCWebControlEnable -RCWebInterfaceEnable at the end.
+ - After running, RC conductor should be accessible from 127.0.0.1:30000
