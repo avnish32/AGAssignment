@@ -90,3 +90,9 @@ Landscape created using landmass plugin.
  - Create a shortcut of the .exe and in properties in Target field, add -RCWebControlEnable -RCWebInterfaceEnable at the end.
  - After running, RC conductor should be accessible from 127.0.0.1:30000
 03 Dec - Set up a sequence that can be triggered as desired.
+
+04 Dec - Completed the sequence
+
+06 Dec - Added self-created 3D volcano divergent explosion without using fluids.
+06 Dec - Mapped global wetness to roughness of materials of trees, grasses and flowers.
+06 Dec - Tried to learn GPU profiling, couldn't figure out which values to compare for before/after.
