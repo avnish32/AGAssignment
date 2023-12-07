@@ -1,0 +1,25 @@
+Culls:
+
+Twigs/seedlings - 15000
+Grass - 20000 
+Rock - 20000
+Flowers - 30000
+Grass_WPODistance - 10000
+Trees_WPODistance - 2000
+
+Enabled nanite on landscape.
+
+On Directional light and moon light
+Dynamic Shadow distance Movable Light - 20000 -> 5000
+Distance Field Shadows activated and distance set to 100,000.
+
+Mobilities changed as appropriate.
+Affect Distance Field lighting disabled for Rocks, grass, twigs, seedlings.
+
+Commands/tools used:
+stat fps - shows FPS
+trace.file - writes trace to a file
+trace.stop - stops the trace
+Unreal Insights to analyse the .utrace file
+
+Note: Nanite was turned off on flowers as no significant performance improvement was observed. So there are no trace files for that stage.
