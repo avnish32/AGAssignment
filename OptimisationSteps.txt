@@ -19,7 +19,8 @@ Affect Distance Field lighting disabled for Rocks, grass, twigs, seedlings.
 Trees texture LOD bias increased so texture resolution is 2K. No improvement observed.
 Dynamic shadow cascades set from 4 to 2, but no impact observed, hence was set back to 4.
 Shadow resolution on directional lights was reduced from 1 to 0.5. No improvement.
-Lumen was disabled in Project settings -> Engine -> Rendering -> Dynamic global illumination method and Reflection method.
+Lumen was disabled in Project settings -> Engine -> Rendering -> Dynamic global illumination method and Reflection method. Around 4 FPS were gained.
+Lumen was enabled back after deleting PCG volumes, FPS were found to be the same, so Lumen was left on.
 
 Commands/tools used:
 stat fps - shows FPS
@@ -28,3 +29,4 @@ trace.stop - stops the trace
 Unreal Insights to analyse the .utrace file
 
 Note: Nanite was turned off on flowers as no significant performance improvement was observed. So there are no trace files for that stage.
+

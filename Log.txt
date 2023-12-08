@@ -96,3 +96,7 @@ Landscape created using landmass plugin.
 06 Dec - Added self-created 3D volcano divergent explosion without using fluids.
 06 Dec - Mapped global wetness to roughness of materials of trees, grasses and flowers.
 06 Dec - Tried to learn GPU profiling, couldn't figure out which values to compare for before/after.
+
+08 Dec - Did some more optimisations - Deleted PCG volume from level, reduced tree texture LOD biases.
+08 Dec - Added button to toggle visibility of clock on HUD.
+08 Dec - Added enums in place of buttons on RCUI so the current preset is always visible to user.
