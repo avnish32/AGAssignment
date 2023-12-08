@@ -100,3 +100,6 @@ Landscape created using landmass plugin.
 08 Dec - Did some more optimisations - Deleted PCG volume from level, reduced tree texture LOD biases.
 08 Dec - Added button to toggle visibility of clock on HUD.
 08 Dec - Added enums in place of buttons on RCUI so the current preset is always visible to user.
+08 Dec - Fixed old volcano eruption NS
+08 Dec - Fixed some bugs related to stars and wind speed
+08 Dec - Corrected sequence due to regeneration of PCG, and increased world loading range for streaming.
