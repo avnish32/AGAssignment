@@ -16,6 +16,11 @@ Distance Field Shadows activated and distance set to 100,000.
 Mobilities changed as appropriate.
 Affect Distance Field lighting disabled for Rocks, grass, twigs, seedlings.
 
+Trees texture LOD bias increased so texture resolution is 2K. No improvement observed.
+Dynamic shadow cascades set from 4 to 2, but no impact observed, hence was set back to 4.
+Shadow resolution on directional lights was reduced from 1 to 0.5. No improvement.
+Lumen was disabled in Project settings -> Engine -> Rendering -> Dynamic global illumination method and Reflection method.
+
 Commands/tools used:
 stat fps - shows FPS
 trace.file - writes trace to a file
