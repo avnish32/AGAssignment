@@ -103,3 +103,5 @@ Landscape created using landmass plugin.
 08 Dec - Fixed old volcano eruption NS
 08 Dec - Fixed some bugs related to stars and wind speed
 08 Dec - Corrected sequence due to regeneration of PCG, and increased world loading range for streaming.
+
+09 Dec - Volcano explosion sound and delay based on distance added. Sound from pixbay.com
