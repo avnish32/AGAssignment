@@ -105,3 +105,4 @@ Landscape created using landmass plugin.
 08 Dec - Corrected sequence due to regeneration of PCG, and increased world loading range for streaming.
 
 09 Dec - Volcano explosion sound and delay based on distance added. Sound from pixbay.com
+09 Dec - Added rain support on sequence cameras.
